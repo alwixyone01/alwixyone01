@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alwixyone01
+- 👀 I’m interested in minecraft server
+- 🌱 I’m currently learning JavaScript and Develop Server Minecraft
